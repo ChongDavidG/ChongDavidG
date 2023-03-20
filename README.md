@@ -16,5 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ```yaml
-* Hello *
+name: David Chong
+current_job: QA Engineer
+education:
+ 
+ company: Samsung
+ 
+ fields_of_interest:
+  [
+   "Quality Assurance",
+   "Mobile Development",
+   "UX/UI"
+  ]
+  
+technical_background:
+  [
+  
+  ]
+  
+currently_learning: ["Swift, SwiftUI]
 ```
