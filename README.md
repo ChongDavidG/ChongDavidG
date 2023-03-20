@@ -20,9 +20,9 @@ name: David Chong
 current_job: QA Engineer
 education:
  
- company: Samsung
+company: Samsung
  
- fields_of_interest:
+fields_of_interest:
   [
    "Quality Assurance",
    "Mobile Development",
